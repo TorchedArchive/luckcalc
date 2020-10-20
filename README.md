@@ -15,7 +15,7 @@ And run with `luckcalc.exe` (Or `./luckcalc` on \*nix)
 
 What??  
 
-This program defines 2 uninitialized variables (`bad_luck` and `good_luck`) and reads them to figure out your luck.  
+This program defines 2 uninitialized variables (`bad_luck` and `good_luck`) and reads them to figure out your luck. (I personally haven't gotten bad luck yet lmaoooooo)  
 Uninitialized variables may not always be what you expect in a local scope. They can be (say for us with an `int` type) 69, 6467 or whatever.
 
 As [this stackoverflow](https://stackoverflow.com/a/1597426/13641384) answer says (edited for C++):  
